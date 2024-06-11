@@ -1,0 +1,28 @@
+_repo: Lake-Ngami-b-Or-explorations-and-discoveries-during-four-years-wanderings-in-the-wilds-of-sou__73758
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Andersson, Charles John
+    gutenberg_agent_id: '57209'
+    url: http://www.gutenberg.org/2009/agents/57209
+description: ''
+gutenberg_issued: '2024-06-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73758'
+language: en
+pgterms:marc904: https://archive.org/details/lakengamiorexplo00ande
+pgterms:marc905: 20211209115101andersson
+pgterms:marc906: '1856'
+pgterms:marc907: us
+production_note: Peter Becker and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aNew York :$bHarper & Brothers, $c1856.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Lake Ngami : $b Or, explorations and discoveries during four years'' wanderings
+  in the wilds of southwestern Africa'
+url: http://www.gutenberg.org/ebooks/73758
